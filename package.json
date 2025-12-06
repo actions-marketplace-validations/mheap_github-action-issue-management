@@ -10,7 +10,7 @@
   "dependencies": {
     "@mheap/action-router": "^1.2.0",
     "actions-toolkit": "^4.0.0",
-    "iso8601-duration": "^1.3.0"
+    "iso8601-duration": "^2.1.3"
   },
   "devDependencies": {
     "jest": "^25.2.7",
